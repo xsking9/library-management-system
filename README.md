@@ -14,9 +14,6 @@ Java1.8,MySQL8.0,Thymeleaf,BootStrap,JQuery
 
 3、简介
 该项目是基于SpringBoot的后端项目，端口号为8181，根据个人需求修改。项目所需文件都在下面。
-免编译使用方法
-下载打包好的项目 点此下载
-运行命令：java -jar attendance_management_api-0.0.2-SNAPSHOT.jar
-测试是否项目正在运行的命令: http://localhost:8088/captcha(可以请求到验证码说明在运行)
-SQL文件、论文、用户导入模板： 点此下载
-前端项目地址 点此访问
+
+SQL文件： 点此下载
+
