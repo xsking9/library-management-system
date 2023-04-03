@@ -15,10 +15,10 @@ Java1.8,MySQL8.0,Thymeleaf,BootStrap,JQuery <br>
  （3）系统管理员 用户管理，书籍管理，类别管理
 
 ### 3、简介
-+ 该项目是基于SpringBoot的后端项目，端口号为8181，根据个人需求修改。<br>
++ 该项目是基于SpringBoot的后端图书管理项目，端口号为8181，根据个人需求修改。<br>
 + SQL文件： [点此下载](https://github.com/xsking9/library-management-system/tree/main/src/main/resources/document/library.sql)
 
-### 3、展示
+### 4、展示
 登陆页面：
 <img src="src\main\resources\static\img\login.png">
 主页：
