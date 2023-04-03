@@ -32,5 +32,5 @@ Java1.8,MySQL8.0,Thymeleaf,BootStrap,JQuery <br>
 
 ## 觉得不错请我喝大窑
 
-<img src="src\main\resources\static\img\alipay.jpg" width="200px"  alt="支付宝收款码">   <img src="src\main\resources\static\img\wechatpay.jpg"  width="200px" alt="微信收款码">
+<img src="src\main\resources\static\images\alipay.jpg" width="200px"  alt="支付宝收款码">   <img src="src\main\resources\static\images\wechatpay.jpg"  width="200px" alt="微信收款码">
 
