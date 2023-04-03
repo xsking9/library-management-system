@@ -18,5 +18,5 @@ Java1.8,MySQL8.0,Thymeleaf,BootStrap,JQuery
 3、简介
 该项目是基于SpringBoot的后端项目，端口号为8181，根据个人需求修改。
 
-SQL文件： 点此下载
+SQL文件：[点此下载](https://github.com/xsking9/library-management-system/blob/main/library.sql)
 
