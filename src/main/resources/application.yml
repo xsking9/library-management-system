@@ -10,6 +10,6 @@ spring:
 server:
   port: 8181
 mybatis-plus:
-  mapper-locations: classpath:/com/southwind/mapper/xml/*.xml
+  mapper-locations: classpath:/com/xsking/mapper/xml/*.xml
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl
