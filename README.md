@@ -20,9 +20,27 @@ Java1.8,MySQL8.0,Thymeleaf,BootStrap,JQuery <br>
 
 ### 4、展示
 登陆页面：
-<img src="src\main\resources\static\img\login.png">
-主页：
-<img src="src\main\resources\static\img\home.png">
+<img src="src\main\resources\static\images\login.png">
+页面1：
+<img src="src\main\resources\static\images\pic1.png">
+
+页面2：
+<img src="src\main\resources\static\images\pic2.png">
+
+页面3：
+<img src="src\main\resources\static\images\pic3.png">
+
+页面4：
+<img src="src\main\resources\static\images\pic4.png">
+
+页面5：
+<img src="src\main\resources\static\images\pic5.png">
+
+页面6：
+<img src="src\main\resources\static\images\pic6.png">
+
+页面7：
+<img src="src\main\resources\static\images\pic7.png">
 
 ## 有问题咨询 QQ:2544627389
 ## 觉得不错请我喝大窑
